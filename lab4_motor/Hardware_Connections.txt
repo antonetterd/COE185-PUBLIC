@@ -1,0 +1,12 @@
+L298N         Arduino      MOTOR1        MOTOR2
+IN1              D3           X             X
+1N2              D4           X             X
+1N3              D7           X             X
+1N4              D8           X             X
+12V              5V           X             X
+GND              GND          X             X
+OUT1/OUT2                  2 WIRES          X
+OUT1/OUT2                                2 WIRES
+-------------------------------------------------
+ENA              D6
+ENB              D5
